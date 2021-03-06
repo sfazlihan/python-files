@@ -1,0 +1,6 @@
+fazlıhan: 100,80,90
+fazlıhan2: 100,80,90
+fazlıhan3: 100,80,90
+
+Fazlıhan Selvitopi:32,465,100
+Fazlıhan Selvitopi:100,89,97
